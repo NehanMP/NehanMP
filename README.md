@@ -5,3 +5,5 @@ I'm Nehan, a highly motivated tech enthusiast with a burning passion for solving
 🚀 I am committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
 
 💻 Currently, my focus lies in web development and full-stack engineering, where I am eager to apply my skills and contribute to cutting-edge projects.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehanMP)](https://github.com/anuraghazra/github-readme-stats)
