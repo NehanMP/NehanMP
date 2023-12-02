@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello there! I'm Nehan, a highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming skills.
+👋 Hello there! I'm Nehan, a highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming skills.
 
 🚀 I am committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
 
