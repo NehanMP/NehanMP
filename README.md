@@ -4,7 +4,7 @@
 
 🚀 I am committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
 
-💻 My current focus is on web development and full-stack engineering, where I'm eager to contribute oo cutting-edge projects.
+💻 My focus is on being a full-stack software developer, where I'm eager to contribute to cutting-edge projects.
 
 🌱 I’m currently learning as an Undergraduate at Informatics Institute of Technology affiliated with University of Westminster.
 
@@ -12,5 +12,6 @@
 -☕ Java <br>
 -🐍 Python <br>
 -💻 HTML, CSS, JS
+- ⚛ ReactJS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NehanMP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nehan-perera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nehan_pr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Nehan_Pr)  
