@@ -11,6 +11,10 @@
 ## Skills
 -☕ Java <br>
 -🐍 Python <br>
--💻 HTML, CSS, JS
+-💻 HTML, CSS, JS <br>
+-⚛ React
+-🌐 Node
+-🧪 Flask
+-🛢 MongoDB
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NehanMP)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nehan-perera/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nehan_pr/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Nehan_Pr)  
