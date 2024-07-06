@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nehan Perera
 
-💡 Highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming skills.
+💡 Highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming.
 
 🚀 Committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
 
