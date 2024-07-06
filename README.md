@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Nehan Perera
 
-💡 I'm a highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming skills.
+💡 Highly motivated tech enthusiast with a burning passion for solving complex problems through innovativeness and programming skills.
 
-🚀 I am committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
+🚀 Committed to pushing the boundaries of what's possible and am always eager to explore new challenges that come my way.
 
-💻 My focus is on being a full-stack software developer, where I'm eager to contribute to cutting-edge projects.
+🌱 Undergraduate at Informatics Institute of Technology affiliated with University of Westminster following a CS degree.
 
-🌱 I’m currently learning as an Undergraduate at Informatics Institute of Technology affiliated with University of Westminster.
+💻 Current focus is on being a full-stack software developer, where I'm eager to contribute to cutting-edge projects.
 
 ## Skills
 -☕ Java <br>
