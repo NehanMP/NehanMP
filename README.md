@@ -6,14 +6,13 @@
 
 🌱 Undergraduate at Informatics Institute of Technology affiliated with University of Westminster following a CS degree.
 
-💻 Current focus is on being a full-stack software developer, where I'm eager to contribute to cutting-edge projects.
+💻 Currently focused on being a full-stack software developer, where I'm eager to contribute to cutting-edge projects.
 
 ## Skills
 -☕ Java <br>
 -🐍 Python <br>
 -💻 HTML, CSS, JS <br>
 -👩🏻‍💻 MERN Stack <br>
--🧪 Flask <br>
 -🌐 SQL, PHP <br>
 -🛢 MySQL 
 
